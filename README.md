@@ -22,6 +22,17 @@ The split ratio for train:test is 75:25.
 
 ROC Curve is used to analyze the efficiency of the model.
 
+Link for the dataset:
+https://archive.ics.uci.edu/ml/datasets/bike+sharing+dataset 
+
+References:
+[1] Fanaee-T, Hadi, and Gama, Joao, 'Event labeling combining ensemble detectors and background knowledge', Progress in Artificial Intelligence (2013): pp. 1-15, Springer Berlin Heidelberg, [Web Link].
+2) https://archive.ics.uci.edu/ml/datasets/bike+sharing+dataset 
+3) https://www.analyticsvidhya.com/blog/tag/regularization/
+4) https://www.analyticsvidhya.com/blog/2018/05/improve-model-performance-cross-validation-in-python-r/
+5) https://www.analyticsvidhya.com/blog/tag/roc-curve/
+
+
 Future Work:
 
 -Cross Validation to perform validation. It is often found that cross validation increases the accuracy and interpretability of the model.
