@@ -20,6 +20,8 @@ Models Used:
 
 The split ratio for train:test is 75:25. 
 
+ROC Curve is used to analyze the efficiency of the model.
+
 Future Work:
 
 -Cross Validation to perform validation. It is often found that cross validation increases the accuracy and interpretability of the model.
